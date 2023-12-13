@@ -1,10 +1,6 @@
 # Rubeus Hagrid: The Keeper of Keys and Grounds
 
-! body {
-    background-image: url('https://images.app.goo.gl/Vm1tm73X9i5uF63Q8');
-    background-size: cover;
-    background-position: center;
-}
+
 
 
 Rubeus Hagrid, with his wild appearance and gentle heart, is one of the most endearing characters in the magical world of Harry Potter. Here are a few reasons why Hagrid is my favorite:
