@@ -1,7 +1,7 @@
 # Rubeus Hagrid: The Keeper of Keys and Grounds
 
 ! body {
-    background-image: url('url_to_your_image');
+    background-image: url('https://images.app.goo.gl/Vm1tm73X9i5uF63Q8');
     background-size: cover;
     background-position: center;
 }
